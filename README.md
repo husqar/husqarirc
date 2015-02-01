@@ -1,0 +1,2 @@
+# husqarirc
+Webbased irc client
